@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"walk",
+				"walktrough"
+			],
+			[
+				"code",
+				"code-generic\tGeneric encapsulation for source code"
+			],
+			[
+				"img",
+				"image\tEncapsulation for source code in specific language"
+			],
+			[
+				"li",
+				"link\tInsert a link"
+			],
+			[
+				"z",
+				"ZipFile"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: code",
+				"Snippet: Generic encapsulation for source code"
+			],
+			[
+				"inser",
+				"Jekyll: Insert upload"
+			],
+			[
+				"insert",
+				"Jekyll: Insert upload"
+			],
+			[
+				"inse",
+				"Jekyll: Insert current date"
+			],
+			[
+				"Jeky",
+				"Jekyll: New post"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/razlupercio/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/htb-writeup.yaml",
+		"/Users/razlupercio/Library/Application Support/Sublime Text 3/Packages/User/image.sublime-snippet",
+		"/Users/razlupercio/Library/Application Support/Sublime Text 3/Packages/User/code-generic",
+		"/Users/razlupercio/my-dev-blog/index.html",
+		"/Users/razlupercio/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/razlupercio/my-dev-blog/.gitignore",
+		"/Users/razlupercio/python/peliculas2020.txt",
+		"/Users/razlupercio/Google Drive/notable/notes/OSCP prep.md",
+		"/Users/razlupercio/.config/joplin-desktop/edit-c079c283336948ed8e49b267b69ce336.md",
+		"/Volumes/Seagate Expansion Media/backup/USB/SAT/cert.txt",
+		"/Users/razlupercio/Projects/blog/10_after_kali_linux.txt",
+		"/Volumes/YACReader-9.6.2.1909283/README.md",
+		"/Users/razlupercio/.config/joplin-desktop/edit-9768da9348d44b54982723d81c542e12.md",
+		"/Users/razlupercio/fixme",
+		"/Users/razlupercio/hack_back/A DIY Guide for those without the patience to wait for whistleblowers ES.txt",
+		"/Users/razlupercio/hack_back/A DIY Guide for those without the patience to wait for whistleblowers.txt",
+		"/Users/razlupercio/hack_back/hack_back_ht.txt",
+		"/Users/razlupercio/hack_back/Una guía DIY para robar bancos.txt",
+		"/Users/razlupercio/violent_python/chap1/zip_cracker/zipcracker.py",
+		"/Users/razlupercio/Downloads/shodan-34405-extras/mongodbdataexport/402/mongodb-servers.json",
+		"/Volumes/16GB/BackUp/facturas/diciembre/AA255378.xml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myNotes.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".sublime-sn",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/code-generic.sublime-snippet"
+			],
+			[
+				"~/Library/Application\\ Support/Sublime\\ Text\\ 3/",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/link-md.sublime-snippet"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
