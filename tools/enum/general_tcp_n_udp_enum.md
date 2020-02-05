@@ -26,6 +26,12 @@ nmap –sV -v -n --script vuln ipaddress
 nmap --script ssl-heartbleed ipaddress 
 ```
 
+### nmap scripts
+
+`ls -la /usr/share/nmap/scripts/ | grep smb`
+
+`nmap -p139,445 --script=smb-enum-*`
+
 ## masscan 
 
 https://github.com/robertdavidgraham/masscan
